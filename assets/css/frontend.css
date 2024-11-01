@@ -1,0 +1,40 @@
+.sh-addon-icp .colors {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.sh-addon-icp .color {
+    padding: 15px 55px;
+    border-radius: 3px;
+}
+
+.sh-addon-icp .sh-image-palette {
+    margin-bottom: 15px;
+}
+
+.sh-image-palette-image {
+    margin-bottom: 1em;
+}
+
+.sh-addon-icp .color-wrap {
+	display: flex;
+	background: #fff;
+	flex-direction: column;
+	text-align: center;
+	border-radius: 3px;
+	margin-right: 5px;
+	margin-bottom: 10px;
+}
+
+.sh-addon-icp .color-code {
+    font-size: 12px;
+}
+
+.sh-addon-icp .title {
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+.sh-addon-icp .colors .color-wrap:last-child {
+    margin-right: 0;
+}
